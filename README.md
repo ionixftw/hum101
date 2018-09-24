@@ -7,13 +7,16 @@
 * Paradigm shift refers to a transformation in paradigm, a change in perspective. Paradigm shift involves breaking contemporary pardigms and making way for new paradigms.
 
 ### Character Ethic VS Personality Ethic
+
 | Character Ethic | Personality Ethic |
-|---|---|
-|Focuses on how to "actually be" insted of how to "appear to be" | Focuses on how to "appear to be" rather than how to "actually be"|
-|Puts emphasis on integrity, fidelity, compassion, courage, compassion, contribution, responsibility.| Puts emphasis on appearance, public image, social interaction techniques, appearing likable to others.|
-|Contributes to effectiveness. | Does not contribute to effectiveness.|
-|Character ethic is deeply imbedded qualities. | Personality ethic is manifestation of qualities regardless of actually possessing them or not.|
+| ------ | ------ |
+| Focuses on how to "actually be" insted of how to "appear to be" | Focuses on how to "appear to be" rather than how to "actually be" |
+| Puts emphasis on integrity, fidelity, compassion, courage, compassion, contribution, responsibility. | Puts emphasis on appearance, public image, social interaction techniques, appearing likable to others. |
+| Contributes to effectiveness. | Does not contribute to effectiveness. |
+| Character ethic is deeply imbedded qualities. | Personality ethic is manifestation of qualities regardless of actually possessing them or not. |
+
 ### Habit
+
 * Habit is the intersection of knowledge(theorical paradigm), skill(ability), and desire(motivation). Our character is a composite of our habits. Forming habits requires all three while breking them also requires all of them. Breaking a deeply integrated habit requires tremendous effort.
 
 ### Maturity continuum
