@@ -23,17 +23,33 @@
 Maturity is lifelong process starting from infancy to adulthood. Physical maturity does not guarantee emotional or mental maturity. There are three stages of maturity: 
 * Dependence
    - The paradigm of You.
-   - Dependent people need others to get what they want.
+   - Dependent people rely on others to get what they want.
 * Independence
    - The paradigm of I.
    - Independent people can get what they want through their own effort.
 * Interdependence
    - The paradigm of We.
    - Interdependent people people combine their own efforts with the efforts of others to achieve thier greatest successes.
+
 # Seven Habits
 
 ### Habit #1: Be Proactive
 
+> **Proactive People:** Proactive people do not blame circumstances, conditions or environment for their behavior. Their behavior is a product of their own conscious choice based on values rather than feelings. The ability to subordinate an impulse to a value is the essence of the proactive person.
+
+> **Reactive People:** Reactive people blame circumstances, conditions or environment for their behavior. Their behavior is driven by feelings, by environment, by circumstances rather than their own conscious choice.
+
+### Circle of Influence vs Circle of Concern 
+
+| Circle of Influence | Circle of Concern |
+| ---- | ---- | 
+| Things over which we have control or we can do something about | Things over which we have no  real control |
+| Proactive people spend their time and energy in this circle causing their Circle of influence to increase | Reactive people spend their time and energy in this circle causing their Circle of Concern to increase |
+| The ability to make and keep commitments magnifies our Circle of Influence | The inability to make and keep commitments magnifies our Circle of Concern |
+| Large Circle of Influence exhibits stregth of characer | Large Circle of Concern exhibits weakness of character |
+
 ### Habit #2: Begin with the end in mind
+
+
 
 ### Habit #3: Put first things first
