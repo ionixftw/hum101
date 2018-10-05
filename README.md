@@ -43,10 +43,10 @@ Maturity is lifelong process starting from infancy to adulthood. Physical maturi
 
 | Circle of Influence | Circle of Concern |
 | ---- | ---- | 
-| Things over which we have control or we can do something about | Things over which we have no  real control |
-| Proactive people spend their time and energy in this circle causing their Circle of influence to increase | Reactive people spend their time and energy in this circle causing their Circle of Concern to increase |
-| The ability to make and keep commitments magnifies our Circle of Influence | The inability to make and keep commitments magnifies our Circle of Concern |
-| Large Circle of Influence exhibits stregth of characer | Large Circle of Concern exhibits weakness of character |
+| Things over which we have control or we can do something about. | Things over which we have no  real control. |
+| Proactive people spend their time and energy in this circle causing their Circle of influence to increase. | Reactive people spend their time and energy in this circle causing their Circle of Concern to increase. |
+| The ability to make and keep commitments magnifies our Circle of Influence. | The inability to make and keep commitments magnifies our Circle of Concern. |
+| Large Circle of Influence exhibits strength of character. | Large Circle of Concern exhibits weakness of character. |
 
 ### Habit #2: Begin with the end in mind
 
