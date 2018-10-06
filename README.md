@@ -125,4 +125,70 @@ Maturity is a lifelong process of becoming matured starting from infancy to adul
 
 * Only when both parties become satisfied, then the deal goes on. Otherwise, there is no deal and no harsh feelings towards each other. This way both parties get the opportunity to be honest with each other and understand each others perspective.
 
+### Habit #5 Seek First to Understand, Then To Be Understood (Principles of Empathic Communication)
 
+* The essence of empathic listening is not just agreeing with someone, but fully, deeply understanding the person, emotionally as well as intellectually.
+
+* Empathic listening involves seeing the world through the perspective of the speaker and trying to understand the speaker's thoughts and beliefs instead of listening with intent to reply.
+
+* Seek First to Understand, Then to Be Understood. Knowing how to be understood is the second part of habit 5. After understanding the speaker through empathic listening, then comes the right time to provide feedback, opinion, or advice. Seeking to be understood requires courage.
+
+### Habit #6 Synergize (Principles of creative cooperation) 
+
+* Synergy is the essence of principle-centered Leadership. It means that the whole part is greater than the sum of its part. It means the relationship which the parts have to each other is a part in and of itself. It is the most catalytic, the most empowering, he most unifying, and the most exciting part.
+
+* In other words, Synergy is the interaction or cooperation of two or more organizations, substances, or other agents to produce a combined effect greater than the sum of their separate effects.
+
+* Valuing the differences is the essence of synergy -- the mental, the emotional, the psychological differences between people.
+
+* The key to valuing those differences is to realize that all people see the world, not as it is, but as they are.
+
+* Synergy is also based on the principle that none of us is as smart as all of us and working with cooperation of others unleashes the greatest power within people.
+
+#### Habit #7 Sharpen the Saw (Principles of Balanced Self-Renewal)
+
+* This habit surrounds all the other habits because it is the habit that makes all the other possible. It means exercising all four dimensions of our nature, regularly and consistently in wise and balanced ways.
+
+#### Four Dimesions of Renewal
+
+##### Physical
+
+* The physical dimesion involves caring effectively for our physical body by eating the right kind of foods, getting sufficient rest and relaxation and exercising on a regular basis.
+
+* Exercise, Nutrition, Stress Management
+
+* Related to Habit #1.
+
+* Exercising is a Q1 activity.
+
+
+##### Spiritual
+
+* The spiritual dimension is a one's core, one's center, one's commitment to own values. It's a very private area of life that draws upon the sources which inspire and uplift a person.
+
+* Value Clarification and commitment, Study and motivation.
+
+* Related to Habit #2.
+
+* Spiritual renewal is a Q2 activity.
+
+##### Mental
+
+* Reading, Visualizing, Planning, Writing
+
+* Related to Habit #3.
+
+##### Social/Emotional
+
+* Service, Empathy, Synergy, Intrinsic Security
+
+* Focuses on Habit #4, #5, #6
+
+* Social and emotional dimension of our lives are tied together because our emotional life is primarily, but not exclusively, developed out of and manifested in our relationships with others.
+
+* Renewing social/emotional dimension requires exercise.
+
+#### Balance in Renewal
+* The self-renwal process must include balanced renewal in all four dimensions of our nature: the physical, the spiritual, the mental, and the social/emotional.
+
+* To neglect any one are negatively impacts the rest.
