@@ -17,10 +17,10 @@
 
 ### Habit
 
-* Habit is the intersection of knowledge(theorical paradigm), skill(ability), and desire(motivation). Our character is a composite of our habits. Forming habits requires all three while breking them also requires all of them. Breaking a deeply integrated habit requires tremendous effort.
+* Habit is the intersection of knowledge(theorical paradigm), skill(ability), and desire(motivation). Our character is a composite of our habits. Forming habits requires all three while breaking them also requires all of them. Breaking a deeply integrated habit requires tremendous effort.
 
 ### Maturity continuum
-Maturity is lifelong process starting from infancy to adulthood. Physical maturity does not guarantee emotional or mental maturity. There are three stages of maturity: 
+Maturity is a lifelong process of becoming matured starting from infancy to adulthood. Physical maturity does not guarantee emotional or mental maturity. There are three stages of maturity: 
 * Dependence
    - The paradigm of You.
    - Dependent people rely on others to get what they want.
@@ -82,3 +82,47 @@ Maturity is lifelong process starting from infancy to adulthood. Physical maturi
 | Q1 deals with crises and problems because they are both urgent and important. Ex: Fire Alarm, Medical emergencies. |  Q2 is the heart of effective personal management. Q2 deals with things that are important but may not seem urgent. Things or activities like this require more initiative, more proactivity and are high-leverage capacity-building. A person should spend more time in this quadrant. Ex: building relationships, maintaining a healthy diet, exercising, preparing for exam, long-range planning, writing a personal mission statement. |
 | **Quadrant 3: Urgent but Not Important** | **Quadrant 4: Not Urgent and Not Important** |
 | We react to urgent but not important matters that are often based on priorities and expectation of others. Ex: Live football or cricket match, replying to facebook messages | Q4 includes activities of entertainment, relaxation. | 
+
+### Habit #4: Think win-win (Principles of Interpersonal Leadership) 
+
+#### Six Paradigms of Human Interaction
+
+#### Win-Win
+
+* Win-win is the frame of mind that seeks mutual benefits in all human interactions.
+
+* Win-win means that agreements or solutions are mutually beneficial and satisfying and is based on the abundance principle(that there is plenty for everyone). 
+
+* Win-win sees life as a cooperative arena, not a competitive arena.
+
+#### Win-Lose
+
+* Win-lose is the paradigm of competition, where there is only one winner.
+
+* This type of mentality is fueled by comparison.
+
+#### Lose-Win
+
+* Lose-win is the frame of mind that seeks strength from popularity or acceptance. 
+
+* People who possess this mentality give up easily, are really easy to please and have little courage to express their own feelings and convictions.
+
+* Win-lose people love this type of people because they love their weaknesses.
+
+#### Lose-Lose
+
+* When two win-lose people get together, no one wins. Both of them lose.
+
+#### Win
+
+* Win is the frame of mind that seeks only personal success and does not necessarily require loss of others.
+
+* A person of with the win mentality thinks in terms of securing his own ends and leaving it to others to secure theirs.
+
+#### Win-Win or No Deal
+
+* If there is no mutual benefit, then there is no agreement.
+
+* Only when both parties become satisfied, then the deal goes on. Otherwise, there is no deal and no harsh feelings towards each other. This way both parties get the opportunity to be honest with each other and understand each others perspective.
+
+
