@@ -135,7 +135,7 @@ Maturity is a lifelong process of becoming matured starting from infancy to adul
 
 ### Habit #6 Synergize (Principles of creative cooperation) 
 
-* Synergy is the essence of principle-centered Leadership. It means that the whole part is greater than the sum of its part. It means the relationship which the parts have to each other is a part in and of itself. It is the most catalytic, the most empowering, he most unifying, and the most exciting part.
+* Synergy is the essence of principle-centered Leadership. It means that the whole part is greater than the sum of its parts. It means the relationship which the parts have to each other is a part in and of itself. It is the most catalytic, the most empowering, he most unifying, and the most exciting part.
 
 * In other words, Synergy is the interaction or cooperation of two or more organizations, substances, or other agents to produce a combined effect greater than the sum of their separate effects.
 
@@ -192,3 +192,64 @@ Maturity is a lifelong process of becoming matured starting from infancy to adul
 * The self-renwal process must include balanced renewal in all four dimensions of our nature: the physical, the spiritual, the mental, and the social/emotional.
 
 * To neglect any one are negatively impacts the rest.
+
+# Basics of Ethic and Culture
+
+### Mortality 
+> **Definition:** Morality is a system of guidance designed to assist us in the living of our lives.
+
+* Morality requires self sacrifice and the curbing of our inclination to want and to do anything that pleases us.
+
+* The primary goal of morality is to estbalish appropriate constraints of human behavior because we do not live together peacefully. 
+
+### Ethics 
+
+> **Definition:** Ethics is the study of morality and moral behavior. Ethics is the philosphical discipline dealing with our moral choices, actions, judgements, and their rational justifications.
+
+* **Moral Dilemma:** Moral dilemma occurs when desirable and undesirable alternatives conflict. 
+
+### Fundamental characteristics of Moral Behavior
+
+1. **Harm:** Harm is the experience of pain, suffering, or deprivation against our will that results from the willful or negligent act of another person. No one wants to be harmed. But the coexisting realities - the universal aversion to harm and the universal human tenedency to inflict harm - are the conditions that make morality **necessary**.
+
+2. **Mutual Aid:** Assisting others in their lives by contributing to their well-being or benefit.
+
+### Two dimensions of morality
+
+* Individual (assumes the individual as a moral agent)
+
+* Social (moral institutuion of life)
+
+* Morality is a social enterprise that involves a system of rules, ideals, and sanctions, and thereby serves the essential social functions of harmony and cooperation.
+
+* Since morality has a social dimension, it applies to institutions, institutional arrangements and policies.
+
+* The study of ethics focuses on behavior rather that motives, itention, or character. Because the actions that people take either causes harm or prevents it. Many intentions are never acted on whether each moral action may count as either harm or help.
+
+* Ethics also deals with the concept of rational justification. Work in the field of ethics is based ultimately on reason and its power to justify beliefs.
+
+* To justify a belief is to give sufficient grounds for it, or backings to it. There are various kinds of backings - in **religion**, and in **reason** for a warranted moral belief.
+
+* Our understanding may be further clarified by distinguishing morality or moral behavior from law, etiquette, customary morality, and religion.
+
+| Ethics and ..... | Definition |
+| ---- | ----- |
+| Law | Law reflects various moral rules, ideals, and sanctions of a society but it can not cover all acts or intentions, nor it prescribe for all acts of mutual aid. Law occasionally runs contraty to morality - is unjust - and hence, may be justifiably be disobeyed in exceptional cases. |
+| Etiquette | Etiquette refers to the acceptable forms of behavior that are associated with social and official life. Ex: proper language, appropriate eating habits. Negative etiquettes convey judgements about manners or taste, not ethics. |
+| *Customary morality* and **religion** | Customary morality and religion both propose action-guides and appropriate sanctions in the interest of a better life in the *community* or within the **religion**. The problem with both is that they may prescribe actions in the name of *custom* or **deity** that violate fundamental morality. Ex: *Customary morality* in various societies has condoned and even advocated slavery, systematic discrimination. Ex: **Religion** also sometimes require their followers to engage in practices that seemingly inflict gratuitous harm on others ( as in holy wars, human sacrifices, and deprivation of possessions).
+
+### The two main groups of theories of moral philosoply
+
+| Teleological (consequentialism) | Deontological (non-consequentialism) |
+| ---- | ---- |
+| Stresses on consequences. | Stresses on the nature of actions. |
+| Right or wrong action, and judgement about these, are determined by the results produced. | Right or wrong action are based upon certain features of the act itself, not necessarily the results produced by the act. |
+| Ex: Exercising, Dieting. | Ex: Promise keeping, telling the truth, respecting the right of others. |
+
+
+* Though philosophical ethics and religiously based ethics are distinct, ethical reflection is heavily based on religious teachings.
+
+* Religious or natural ethics should be treated by their contribution in prevention in human harm and in maximizing human benefit.
+
+
+
