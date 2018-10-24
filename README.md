@@ -206,7 +206,7 @@ Maturity is a lifelong process of becoming matured starting from infancy to adul
 
 > **Definition:** Ethics is the study of morality and moral behavior. Ethics is the philosphical discipline dealing with our moral choices, actions, judgements, and their rational justifications.
 
-* **Moral Dilemma:** Moral dilemma occurs when desirable and undesirable alternatives conflict. 
+* **Moral Dilemma:** Moral dilemma occurs when desirable and undesirable alternatives conflict with each other. 
 
 ### Fundamental characteristics of Moral Behavior
 
@@ -250,6 +250,23 @@ Maturity is a lifelong process of becoming matured starting from infancy to adul
 * Though philosophical ethics and religiously based ethics are distinct, ethical reflection is heavily based on religious teachings.
 
 * Religious or natural ethics should be treated by their contribution in prevention in human harm and in maximizing human benefit.
+
+### Culture
+
+> **Definition:** Culture is the more or less integrated way of thinking, understanding, evaluating and communicating that makes possible a shared way of life. Howard Becker described culture as, "shared understandings that people use to coordinate their activities".
+
+#### Elements of culture
+
+* There are five elements of culture: 
+
+| Element | Remarks |
+| ---- | ---- |
+| Values | Values are deeply held criteria for judging what is good or bad, desirable or undesirable, beautiful or ugly. Ex: Honesty, Puncuality.|
+| Norms | A norm is a rule or guideline that says how peopleshould behave in particular situations. Norms are narrower and more specific than values. Norms are generally derived from values. Norms can be explicit or implicit. Norms change more rapidly than values. Norms that are simply everyday habits and conventions are called **Folkways**. Norms that people consider vital to their well-being and to their most cherished values are called **Mores**. Some norms are formalized into **Laws**. The laws that are most difficult to enforce are those that are not grounded in folkways or mores. |
+| Symbols | Symbols are objects, gestures, sounds, or images that represent something other than themselves. |
+| Language | A language is a system of verbal and, in many cases, written symbols with rules about how those symbols can be combined to convey more complex meanings. |
+| Khowledge | Knowledge is the body of facts, beliefs, and practical skills that people accumulate over time. |
+
 
 
 
